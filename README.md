@@ -57,3 +57,14 @@ A landing page "We Care" tem como objetivo apresentar um serviço de cuidado de 
 ## Autor
 
 Wesley Henrique ®
+
+
+## Contato
+
+Se você tiver alguma oportunidade de trabalho ou gostaria de discutir este projeto, sinta-se à vontade para entrar em contato:
+
+* https://www.linkedin.com/in/henriquewesley/
+* whenfeof@gmail.com
+* https://wesleyhenriqueportifolio.vercel.app/
+
+Agradeço o seu interesse!
