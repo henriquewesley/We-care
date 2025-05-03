@@ -53,3 +53,7 @@ A landing page "We Care" tem como objetivo apresentar um serviço de cuidado de 
 ## Visualização do projeto
 
 ![Tela do projeto](img/inicial-screen-we-care.png)
+
+## Autor
+
+Wesley Henrique ®
